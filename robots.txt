@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: onlayn-kazino-s-horoshey-otdachey-3d71b.github.io
+Sitemap: https://onlayn-kazino-s-horoshey-otdachey-3d71b.github.io/sitemap.xml
